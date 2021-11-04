@@ -31,7 +31,7 @@ ____
 
 ### Generate meta-embeddings
 If you only want to generate meta-embeddings you need:
-- Python 3 (3.6 or greater)
+- Python 3 (3.7 or greater)
 - Numpy
 - tqdm
 - Cupy, if you have an Nvidia GPU you can install cupy to use the GPU instead of the CPU for faster matrix operations: https://docs.cupy.dev/en/stable/install.html
