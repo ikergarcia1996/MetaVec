@@ -1,0 +1,44 @@
+name: metavec
+channels:
+    - pytorch
+    - conda-forge
+dependencies:
+    - python=3.7
+    - pytorch=1.10.0
+    - nvidia-apex=0.1
+    - numpy=1.21.3
+    - scikit-learn=0.19.1
+    - pandas=1.3.4
+    - bokeh
+    - ipykernel
+    - pytz
+    - jsondiff
+    - cupy
+    - pip
+    - pip:
+        - allennlp==0.8.4
+        - ipdb
+        - tensorboard
+        - tensorboardX==1.2
+        - sendgrid==5.4.1
+        - pyhocon==0.3.35
+        - nose2
+        - pre-commit==1.15.2
+        - python-Levenshtein==0.12.0
+        - google-cloud-logging==1.11.0
+        - spacy==2.1
+        - ftfy
+        - nltk==3.4.5
+        - sacremoses
+        - transformers==2.6.0
+        - tokenizers==0.5.2
+        - matplotlib>=1.5.0
+        - Cython
+        - pytest
+        - scipy
+        - seaborn
+        - futures
+        - tqdm
+        - docopt
+        - gensim
+        - overrides==3.1.0

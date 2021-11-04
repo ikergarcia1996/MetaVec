@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+
+MetaVec/vecmap/
+word-embeddings-benchmarks/
+jiant-v1-legacy/
+
+extrinsic_eval_results/
+
+intrinsic_eval_results/
