@@ -17,12 +17,18 @@ This meta embeddings combines [FastText](https://fasttext.cc/docs/en/english-vec
 
 # Citation
 ```
-@inproceedings{garcia2021metavec,
-    title={Benchmarking Meta-embeddings: What Works and What Does Not},
-    author={Iker García-Ferrero and Rodrigo Agerri and German Rigau},
-    year={2021},
-    booktitle={Findings of the Association for Computational Linguistics: EMNLP 2021},
-}
+@inproceedings{garcia-ferrero-etal-2021-benchmarking-meta,
+    title = "Benchmarking Meta-embeddings: What Works and What Does Not",
+    author = "Garc{\'\i}a-Ferrero, Iker  and
+      Agerri, Rodrigo  and
+      Rigau, German",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.333",
+    pages = "3957--3972",
 ```
 
 ____
