@@ -10,9 +10,9 @@ ____
 You can download our pre-computed meta-embedding. 
 This meta embeddings combines [FastText](https://fasttext.cc/docs/en/english-vectors.html), [Numberbatch](https://github.com/commonsense/conceptnet-numberbatch), [JOINTChyb](http://ixa2.si.ehu.es/ukb/bilingual_embeddings.html) and [Paragram](https://github.com/jwieting/paragram-word).
 
-- Download MetaVec-large (4,573,185 words, 300 dimensions. 11.8Gb uncompressed): https://drive.google.com/file/d/1wF957TYJ6bt18KFqHIsfVewuIfUwRZm5/view?usp=sharing
+- Download MetaVec-large (4,573,185 words, 300 dimensions. 11.8Gb uncompressed): https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec.zip
 
-- Download MetaVec-small (186,647 words, 300 dimensions. 450Mb uncompressed). Only the 200,000 most common English Words according to the [Google's Trillion Words Corpus](https://books.google.com/ngrams/info), the vectors for these words are the same that in MetaVec-large: https://drive.google.com/file/d/1d7xZksVKgJm9UE3i4qzWS4rEop-YGa6S/view?usp=sharing
+- Download MetaVec-small (186,647 words, 300 dimensions. 450Mb uncompressed). Only the 200,000 most common English Words according to the [Google's Trillion Words Corpus](https://books.google.com/ngrams/info), the vectors for these words are the same that in MetaVec-large: https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_200000.zip
 
 
 # Citation
