@@ -10,7 +10,7 @@ ____
 You can download our pre-computed meta-embedding. 
 This meta embeddings combines [FastText](https://fasttext.cc/docs/en/english-vectors.html), [Numberbatch](https://github.com/commonsense/conceptnet-numberbatch), [JOINTChyb](http://ixa2.si.ehu.es/ukb/bilingual_embeddings.html) and [Paragram](https://github.com/jwieting/paragram-word).
 
-| Download                                                            | Words     | Dimensions | Size   | Link                                                     |
+| Click to Download                                                   | Words     | Dimensions | Size   | Link                                                     |
 |---------------------------------------------------------------------|-----------|------------|--------|----------------------------------------------------------|
 | [MetaVec](https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec.zip) | 4,573,185 | 300        | 11.8GB | https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec.zip |
 
@@ -18,11 +18,12 @@ This meta embeddings combines [FastText](https://fasttext.cc/docs/en/english-vec
 MetaVec is a very large embedding. We provide reduced vocabulary versions of the Meta-Embedding. The vector representations are the same,
 but we include only a subset of the words in the vocabulary.
 
-| Download                                                                        | Words     | Dimensions | Size   |                                                                                                                                                   | Link                                                            |
-|---------------------------------------------------------------------------------|-----------|------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| [MetaVec 2M]( https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_2M.zip)      | 1,999,995 | 300        | 4.8GB  | Only words in [crawl-300d-2M.vec](https://fasttext.cc/docs/en/english-vectors.html) (FastText Common Crawl) vocabulary                            | https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_2M.zip     |
-| [MetaVec 1M](https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_1M.zip)       | 830,063   | 300        | 2GB    | Only words in  [wiki-news-300d-1M.vec](https://fasttext.cc/docs/en/english-vectors.html)  (FastText Wikipedia) vocabulary                         | https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_1M.zip     |
-| [MetaVec 0.2M](https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_200000.zip) | 186,647   | 300        | 0.45GB | Only words in the 200,000 most common English Words List according to the  [Google's Trillion Words Corpus](https://books.google.com/ngrams/info) | https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_200000.zip |
+| Click to Download                                                               | Words     | Dimensions | Size   |                                                                                                                                                   |
+|---------------------------------------------------------------------------------|-----------|------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| [MetaVec 2M]( https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_2M.zip)      | 1,999,995 | 300        | 4.8GB  | Only words in [crawl-300d-2M.vec](https://fasttext.cc/docs/en/english-vectors.html) (FastText Common Crawl) vocabulary                            |
+| [MetaVec 1M](https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_1M.zip)       | 830,063   | 300        | 2GB    | Only words in  [wiki-news-300d-1M.vec](https://fasttext.cc/docs/en/english-vectors.html)  (FastText Wikipedia) vocabulary                         |
+| [MetaVec 0.2M](https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_200000.zip) | 186,647   | 300        | 0.45GB | Only words in the 200,000 most common English Words List according to the  [Google's Trillion Words Corpus](https://books.google.com/ngrams/info) |
+
 # Citation
 ```
 @inproceedings{garcia-ferrero-etal-2021-benchmarking-meta,
