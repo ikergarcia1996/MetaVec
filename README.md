@@ -22,7 +22,7 @@ but we include only a subset of the words in the vocabulary.
 |---------------------------------------------------------------------------------|-----------|------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | [MetaVec 2M]( https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_2M.zip)      | 1,999,995 | 300        | 4.8GB  | Only words in [crawl-300d-2M.vec](https://fasttext.cc/docs/en/english-vectors.html) (FastText Common Crawl) vocabulary                            |
 | [MetaVec 1M](https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_1M.zip)       | 830,063   | 300        | 2GB    | Only words in  [wiki-news-300d-1M.vec](https://fasttext.cc/docs/en/english-vectors.html)  (FastText Wikipedia) vocabulary                         |
-| [MetaVec 0.2M](https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_200000.zip) | 186,647   | 300        | 0.45GB | Only words in the 200,000 most common English Words List according to the  [Google's Trillion Words Corpus](https://books.google.com/ngrams/info) |
+| [MetaVec 0.2M](https://adimen.si.ehu.es/~igarcia/embeddings/MetaVec_200000.zip) | 186,647   | 300        | 0.45GB | Only words in the 200,000 Most Common English Words List according to the  [Google's Trillion Words Corpus](https://books.google.com/ngrams/info) |
 
 # Citation
 ```
